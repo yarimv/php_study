@@ -6,11 +6,11 @@
   </head>
   <body>
 
-
+//필요없을 메인 페이지..
    <h2><a href="modify.php">책수정하기</a></h2>
    <h2><a href="request.php">신청하기</a></h2>
 
-   
+
    <h2></h2>
   </body>
 </html>
